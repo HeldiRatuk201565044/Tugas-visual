@@ -1,2 +1,3 @@
 # Tugas-visual
-memenuhi tugas
+Memenuhi Project Visual Praktek
+Sistem Informasi Kapal
